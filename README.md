@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VINEET JAIN</h1>
+<h1 align="center">Hi 👋 , I'm VINEET JAIN</h1>
 <h3 align="center">Computer engineering student with a focus on data analysis, machine learning, and programming.Proficient in Python, with experience in utilizing libraries and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjain345&label=Profile%20views&color=0e75b6&style=flat" alt="vjain345" /> </p>
