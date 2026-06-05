@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjain345&label=Profile%20views&color=0e75b6&style=flat" alt="vjain345" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning **
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me **vineeet.vj593@gmail.com**
 
